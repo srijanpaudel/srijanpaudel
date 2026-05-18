@@ -21,7 +21,7 @@ Next.js 15 · Vercel · Supabase · Groq (Claude + Llama) · n8n · Resend · Po
 
 - 🌍 Website: [aiprosol.com](https://aiprosol.com)
 - 💼 LinkedIn: [linkedin.com/in/srijanpaudel](https://linkedin.com/in/srijanpaudel)
-- 🐦 X: [@srijanpaudel](https://x.com/srijanpaudel)
+- 🐦 X: [@srijanpaudel6](https://x.com/srijanpaudel)
 - 🏢 Aiprosol on GitHub: [github.com/aiprosol](https://github.com/aiprosol)
 - 📧 Email: srijanpaudelofficial@gmail.com
 - 📅 30-min Enterprise call: [calendly.com/srijanpaudel219/30min](https://calendly.com/srijanpaudel219/30min)
