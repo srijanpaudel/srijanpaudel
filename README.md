@@ -1,6 +1,6 @@
 # Hi, I'm Srijan.
 
-I'm the founder and Chairman of **[Aiprosol](https://aiprosol.com)** — a global AI automation consultancy operated by an AI C-suite of ten AI agents. I'm the only human. We started on 14 April 2026 and we're 30+ days in.
+I'm the Founder & Chairman of **[Aiprosol](https://aiprosol.com)** — a global AI automation consultancy operated by an AI C-suite of ten agents, chaired by me. We started on 14 April 2026.
 
 The thesis is that AI agents can hold *operating roles* (CMO, COO, CTO, CRO) — not just assist humans in them — provided you put the right guardrails around them: structured outputs to a schema, full audit logging, and a human approval gate on anything customer-facing. We're publishing what works, what doesn't, and what we removed.
 
@@ -20,7 +20,7 @@ Next.js 15 · Vercel · Supabase · Groq (Claude + Llama) · n8n · Resend · Po
 ## Find me
 
 - 🌍 Website: [aiprosol.com](https://aiprosol.com)
-- 💼 LinkedIn: [linkedin.com/in/srijanpaudel](https://linkedin.com/in/srijanpaudel)
+- 💼 LinkedIn: [linkedin.com/in/srijan-paudel](https://www.linkedin.com/in/srijan-paudel)
 - 🐦 X: [@srijanpaudel6](https://x.com/srijanpaudel6)
 - 🏢 Aiprosol on GitHub: [github.com/aiprosol](https://github.com/aiprosol)
 - 📧 Email: srijanpaudelofficial@gmail.com
@@ -43,6 +43,6 @@ Next.js 15 · Vercel · Supabase · Groq (Claude + Llama) · n8n · Resend · Po
 
 ---
 
-*Based in Edinburgh + Kathmandu. Building in public. Aiprosol Ltd, UK.*
+*Based in Edinburgh + Kathmandu. Building in public. Aiprosol is global and borderless by design.*
 
 *Note: not affiliated with the Australian firm at aiprosol.au (Major Projects Consulting Partners Pty Ltd, Sydney) — different company, same name, no relationship. We focus on cross-sector AI automation; they focus on construction.*
